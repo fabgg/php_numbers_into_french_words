@@ -11,7 +11,7 @@ echo $string;
 
 ```
 
-will display **soixante-onze mille trois cent quatre-vingt-dix-sept**;
+will display **soixante-onze mille trois cents quatre-vingt-dix-sept**;
 
 Enjoy !
 
